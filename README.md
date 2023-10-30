@@ -7,11 +7,6 @@
 ![Student List](/screenshots/studentList.png)
 
 
-### Info dialog:
-
-![Info Dialog](/screenshots/help.png)
-
-
 ### Adding a new student:
 
 ![Add Student](/screenshots/addStudent.png)
